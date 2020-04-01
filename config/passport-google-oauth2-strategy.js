@@ -21,6 +21,7 @@ passport.use(
                     console.log("error in goggle strategy-passport", err);
                     return;
                 }
+                console.log(accessToken);
                 console.log(profile);
 
                 if (user) {
