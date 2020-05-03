@@ -3,6 +3,7 @@ const env = require('./config/environment');
 const logger = require('morgan');
 const cookieParser = require("cookie-parser");
 const app = express();
+require('./config/view-helpers')(app);
 const port = 8000;
 const expressLayouts = require("express-ejs-layouts");
 const dotenv = require('dotenv').config();
@@ -92,5 +93,5 @@ app.listen(port, function(err) {
     if (err) {
         console.log(`Error in running the server: ${err}`);
     }
-    console.log(`Server is running on port ${port}`);
+    console.log(`Server is running:${env.name}: on port ${port}`);
 });

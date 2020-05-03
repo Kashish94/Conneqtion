@@ -1,0 +1,292 @@
+[0mGET / [32m200[0m 429.411 ms - 9020[0m
+[0mGET /%3C/css/home.css [33m404[0m 12.036 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 5.747 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 4.393 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 7.284 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 4.651 ms - 156[0m
+[0mGET /%3C/css/home.css [33m404[0m 3.395 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 2.311 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 1.846 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 3.415 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 2.939 ms - 156[0m
+[0mGET /favicon.ico [33m404[0m 1.324 ms - 150[0m
+[0mGET /users/sign-in [32m200[0m 4.938 ms - 2189[0m
+[0mGET /users/css/layout.css [33m404[0m 2.926 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 6.997 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 2.980 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.677 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 24.381 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.864 ms - 159[0m
+[0mGET /%3C/css/home.css [33m404[0m 4.247 ms - 155[0m
+[0mGET / [36m304[0m 133.687 ms - -[0m
+[0mGET /%3C/css/home.css [33m404[0m 25.698 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 14.790 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 55.258 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 14.244 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 30.153 ms - 156[0m
+[0mGET /js/home_posts.js [33m404[0m 6.934 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 4.878 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 3.391 ms - 156[0m
+[0mGET /users/sign-in [36m304[0m 9.956 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 21.227 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 24.683 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.632 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 9.192 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 13.486 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.697 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.141 ms - 159[0m
+[0mGET / [36m304[0m 60.579 ms - -[0m
+[0mGET /%3C/css/home.css [33m404[0m 35.649 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 12.902 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 22.705 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 24.093 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 31.425 ms - 155[0m
+[0mGET /css/footer.css [33m404[0m 49.632 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 47.177 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 30.583 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 20.246 ms - 156[0m
+[0mGET /%3C/css/home.css [33m404[0m 4.610 ms - 155[0m
+[0mGET /css/footer.css [33m404[0m 4.034 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 4.670 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 5.236 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 6.882 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 3.276 ms - 163[0m
+[0mGET / [36m304[0m 110.573 ms - -[0m
+[0mGET /%3C/css/home.css [33m404[0m 21.433 ms - 155[0m
+[0mGET /js/home_posts.js [33m404[0m 74.243 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 52.537 ms - 157[0m
+[0mGET /js/home_post_comments.js [33m404[0m 19.038 ms - 163[0m
+[0mGET /js/chat_engine.js [33m404[0m 59.180 ms - 156[0m
+[0mGET /js/home_posts.js [33m404[0m 5.975 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 4.354 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 2.629 ms - 156[0m
+[0mGET /%3C/css/home.css [33m404[0m 75.236 ms - 155[0m
+[0mGET /css/layout.css [33m404[0m 2.796 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 3.580 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 3.323 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 11.662 ms - 155[0m
+[0mGET / [32m200[0m 110.512 ms - 9017[0m
+[0mGET /js/home_post_comments.js [33m404[0m 31.595 ms - 163[0m
+[0mGET /js/toggle_likes.js [33m404[0m 11.171 ms - 157[0m
+[0mGET /js/home_posts.js [33m404[0m 13.893 ms - 155[0m
+[0mGET /js/chat_engine.js [33m404[0m 24.619 ms - 156[0m
+[0mGET /js/toggle_likes.js [33m404[0m 2.912 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 1.875 ms - 156[0m
+[0mGET /users/sign-in [36m304[0m 7.320 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.213 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.548 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 19.927 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 23.714 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 14.087 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 24.351 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 33.516 ms - 159[0m
+[0mGET / [32m200[0m 73.373 ms - 9018[0m
+[0mGET /js/home_post_comments.js [33m404[0m 44.431 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 16.400 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 17.735 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 65.908 ms - 156[0m
+[0mGET /js/home_posts.js [33m404[0m 6.389 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 2.394 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 5.943 ms - 156[0m
+[0mGET /favicon.ico [33m404[0m 2.273 ms - 150[0m
+[0mGET /users/sign-in [32m200[0m 6.555 ms - 2189[0m
+[0mGET /users/css/layout.css [33m404[0m 12.191 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.399 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.407 ms - 159[0m
+[0mGET /users/sign-in [32m200[0m 31.452 ms - 2192[0m
+[0mGET /users/auth/google [36m302[0m 8.812 ms - 0[0m
+[0mGET /users/sign-in [32m200[0m 6.738 ms - 2192[0m
+[0mGET /css/layout.css [33m404[0m 5.819 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 11.166 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 13.483 ms - 153[0m
+[0mGET / [32m200[0m 54.908 ms - 9021[0m
+[0mGET /js/home_post_comments.js [33m404[0m 36.002 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 36.772 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 16.882 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 85.922 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 50.257 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 26.986 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 21.137 ms - 156[0m
+[0mGET / [36m304[0m 37.273 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 10.507 ms - 163[0m
+[0mGET /css/header.css [33m404[0m 8.161 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 11.599 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 13.015 ms - 151[0m
+[0mGET /css/layout.css [33m404[0m 9.136 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 44.139 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 25.997 ms - 157[0m
+[0mGET /js/home_posts.js [33m404[0m 29.090 ms - 155[0m
+[0mGET /js/chat_engine.js [33m404[0m 6.887 ms - 156[0m
+[0mGET /js/toggle_likes.js [33m404[0m 2.855 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 1.807 ms - 156[0m
+[0mGET / [36m304[0m 46.921 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 3.000 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 4.740 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 8.082 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 4.858 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 3.471 ms - 155[0m
+[0mGET /css/home.css [33m404[0m 6.406 ms - 151[0m
+[0mGET /js/home_posts.js [33m404[0m 1.767 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 2.319 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 2.920 ms - 156[0m
+[0mGET / [36m304[0m 70.911 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 28.537 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 35.890 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 9.692 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 16.848 ms - 156[0m
+[0mGET / [36m304[0m 36.721 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 4.672 ms - 163[0m
+[0mGET /css/footer.css [33m404[0m 13.513 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 13.952 ms - 151[0m
+[0mGET /css/header.css [33m404[0m 14.478 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 56.005 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 61.934 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 25.761 ms - 157[0m
+[0mGET /js/home_posts.js [33m404[0m 60.003 ms - 155[0m
+[0mGET /js/chat_engine.js [33m404[0m 27.517 ms - 156[0m
+[0mGET /js/toggle_likes.js [33m404[0m 2.716 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 3.656 ms - 156[0m
+[0mGET / [36m304[0m 42.474 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 3.536 ms - 163[0m
+[0mGET /css/home.css [33m404[0m 7.608 ms - 151[0m
+[0mGET /css/header.css [33m404[0m 5.740 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 5.715 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 23.961 ms - 155[0m
+[0mGET /css/footer.css [33m404[0m 29.558 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 19.520 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 4.386 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 12.149 ms - 156[0m
+[0mGET / [36m304[0m 25.498 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 11.979 ms - 163[0m
+[0mGET /css/header.css [33m404[0m 12.841 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 15.143 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 18.513 ms - 151[0m
+[0mGET /css/footer.css [33m404[0m 23.965 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 22.407 ms - 155[0m
+[0mGET /js/home_posts.js [33m404[0m 28.754 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 26.794 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 3.656 ms - 156[0m
+[0mGET / [32m200[0m 67.957 ms - 9021[0m
+[0mGET /js/home_post_comments.js [33m404[0m 1.491 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 9.809 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 9.814 ms - 151[0m
+[0mGET /css/header.css [33m404[0m 9.771 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 9.371 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 8.040 ms - 155[0m
+[0mGET /js/home_posts.js [33m404[0m 14.157 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 6.144 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 5.773 ms - 156[0m
+[0mGET /js/home_post_comments.js [33m404[0m 9.499 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 10.323 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 20.447 ms - 151[0m
+[0mGET /css/footer.css [33m404[0m 20.535 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 20.319 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 15.586 ms - 155[0m
+[0mGET /js/home_posts.js [33m404[0m 6.370 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 1.369 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 1.608 ms - 156[0m
+[0mGET /css/layout.css [33m404[0m 12.778 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 10.117 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 8.794 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 11.409 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 12.496 ms - 155[0m
+[0mGET / [36m304[0m 60.272 ms - -[0m
+[0mGET / [36m304[0m 39.395 ms - -[0m
+[0mGET / [36m304[0m 28.745 ms - -[0m
+[0mGET / [36m304[0m 46.219 ms - -[0m
+[0mGET / [36m304[0m 41.729 ms - -[0m
+[0mGET / [36m304[0m 38.400 ms - -[0m
+[0mGET / [36m304[0m 40.390 ms - -[0m
+[0mGET / [36m304[0m 35.107 ms - -[0m
+[0mGET / [36m304[0m 36.277 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 8.241 ms - -[0m
+[0mGET /users/auth/google [36m302[0m 7.103 ms - 0[0m
+[0mGET /users/auth/google/callback?code=4%2FygERWCcbs3EVprlgcVYEH44bdY-9TEHciNrirsuJJApUDlZNJWW_zyW7irfuxPZCspcB5qSLeSPgZsL6yQ7G7Mc&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent [36m302[0m 1503.364 ms - 46[0m
+[0mGET / [32m200[0m 50.464 ms - 12692[0m
+[0mGET /users/profile/5e706817b10add2fe4abb73a [32m200[0m 74.210 ms - 2475[0m
+[0mGET /users/profile/5e706817b10add2fe4abb73a [36m304[0m 38.574 ms - -[0m
+[0mGET / [32m200[0m 50.881 ms - 9032[0m
+[0mGET /users/sign-in [32m200[0m 7.951 ms - 2192[0m
+[0mGET / [32m200[0m 62.874 ms - 12391[0m
+[0mGET /users/profile [33m404[0m 8.407 ms - 152[0m
+[0mGET /users/profile/5e706817b10add2fe4abb73a [36m304[0m 10.354 ms - -[0m
+::1 - - [09/Apr/2020:20:27:32 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 500 980 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:27:32 +0000] "GET /css/header-6214fb5e0a.css HTTP/1.1" 500 980 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:27:32 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:27:32 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 500 980 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:27:35 +0000] "GET /users/sign-in HTTP/1.1" 500 980 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:33:18 +0000] "GET / HTTP/1.1" - - "http://localhost:8000/users/profile/5e706817b10add2fe4abb73a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:35:18 +0000] "GET / HTTP/1.1" - - "http://localhost:8000/users/profile/5e706817b10add2fe4abb73a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET / HTTP/1.1" 200 9131 "http://localhost:8000/users/profile/5e706817b10add2fe4abb73a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/header-6214fb5e0a.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/home_post_comments-17d4d4c772.js HTTP/1.1" 404 174 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/home-bacaa64d3a.css HTTP/1.1" 404 162 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/chat_box-3aa9f1fb21.css HTTP/1.1" 404 166 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/chat_engine-29f241c2e2.js HTTP/1.1" 404 167 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/home_posts-1a633d8412.js HTTP/1.1" 404 166 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/toggle_likes-0e3d81481c.js HTTP/1.1" 404 168 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/home-bacaa64d3a.css HTTP/1.1" 404 162 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/header-6214fb5e0a.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 404 164 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /css/chat_box-3aa9f1fb21.css HTTP/1.1" 404 166 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/home_post_comments-17d4d4c772.js HTTP/1.1" 404 174 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/home_posts-1a633d8412.js HTTP/1.1" 404 166 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/toggle_likes-0e3d81481c.js HTTP/1.1" 404 168 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:38:10 +0000] "GET /js/chat_engine-29f241c2e2.js HTTP/1.1" 404 167 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+[0mGET / [32m200[0m 80.745 ms - 9032[0m
+[0mGET /users/sign-in [36m304[0m 11.273 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 8.566 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 4.076 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 7.195 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 6.396 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 11.812 ms - 72[0m
+[0mGET /users/sign-in [32m200[0m 3.773 ms - 2505[0m
+[0mGET / [36m304[0m 45.479 ms - -[0m
+[0mGET /users/profile/5e706817b10add2fe4abb73a [36m302[0m 4.564 ms - 72[0m
+[0mGET /users/sign-in [32m200[0m 10.746 ms - 2192[0m
+[0mGET /users/sign-in [36m304[0m 41.159 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 5.369 ms - -[0m
+::1 - - [09/Apr/2020:20:53:14 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:56:02 +0000] "GET /users/sign-in HTTP/1.1" 500 980 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:20:58:10 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:10 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:21 +0000] "POST /users/create-session HTTP/1.1" 302 72 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:21 +0000] "GET /users/sign-in HTTP/1.1" 200 2538 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:29 +0000] "POST /users/create-session HTTP/1.1" 302 72 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:29 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:33 +0000] "GET /users/auth/google HTTP/1.1" 302 0 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:43 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:50 +0000] "POST /users/create-session HTTP/1.1" 302 72 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:01:50 +0000] "GET /users/sign-in HTTP/1.1" 200 2538 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:16 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:19 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:21 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:25 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:50 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:52 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:54 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:02:55 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:04:03 +0000] "GET /users/sign-in HTTP/1.1" 200 2225 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:04:05 +0000] "GET /users/sign-up HTTP/1.1" 200 2383 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:04:06 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:04:41 +0000] "POST /users/create HTTP/1.1" 302 72 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:04:41 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:05:01 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:05:16 +0000] "POST /users/create HTTP/1.1" 302 72 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:05:16 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:05:24 +0000] "POST /users/create-session HTTP/1.1" 302 46 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:05:24 +0000] "GET / HTTP/1.1" 200 4644 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:07:59 +0000] "GET / HTTP/1.1" 200 4332 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:01 +0000] "GET /users/sign-out HTTP/1.1" 302 46 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:01 +0000] "GET / HTTP/1.1" 200 3725 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:06 +0000] "GET /users/profile/5e8f8de90bedfd4254e8453a HTTP/1.1" 302 72 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:06 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:29 +0000] "POST /users/create-session HTTP/1.1" 302 46 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:29 +0000] "GET / HTTP/1.1" 200 4644 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:32 +0000] "GET /users/profile/5e8f8de90bedfd4254e8453a HTTP/1.1" 200 2148 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:08:32 +0000] "GET /css/user_profile.css HTTP/1.1" 404 159 "http://localhost:8000/users/profile/5e8f8de90bedfd4254e8453a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:09:01 +0000] "GET /css/user_profile.css HTTP/1.1" 404 159 "http://localhost:8000/users/profile/5e8f8de90bedfd4254e8453a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+::1 - - [09/Apr/2020:21:11:22 +0000] "GET /users/profile/5e8f8de90bedfd4254e8453a HTTP/1.1" 200 2159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"

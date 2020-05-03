@@ -1,3 +1,6 @@
+// whatsapp
+
+
 const fs = require('fs');
 const rfs = require("rotating-file-stream");
 const path = require('path');
@@ -11,11 +14,9 @@ const accessLogStream = rfs.createStream('access.log', {
     path: logDirectory
 });
 
-
-
 const development = {
     name: 'development',
-    asset_path: '/assets',
+    asset_path: './assets',
     session_cookie_key: 'blahsomething',
     db: 'conneqtion_development',
     smtp: {
@@ -44,7 +45,8 @@ const production = {
     name: 'production',
     asset_path: process.env.CONNEQTION_ASSET_PATH,
     session_cookie_key: process.env.CONNEQTION_SESSION_COOKIE_KEY,
-    db: process.env.CONNEQION_DB,
+    db: process.env.CONNEQTION_DB,
+    // db: 'conneqtion_development',
     smtp: {
         service: 'gmail',
         host: 'smtp.gmail.com',
@@ -67,4 +69,6 @@ const production = {
 
 
 
-module.exports = eval(process.env.CONNEQTION_ENVIRONMENT) == undefined ? development : eval(process.env.CONNEQTION_ENVIRONMENT);
+// module.exports = eval(process.env.CONNEQTION_ENV) == undefined ? development : eval(process.env.CONNEQTION_ENV);
+
+module.exports = eval(process.env.NODE_ENV == undefined ? development : eval(process.env.NODE_ENV));
